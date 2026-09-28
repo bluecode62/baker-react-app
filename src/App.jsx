@@ -1,10 +1,11 @@
 import './App.css'
+import BreadCard from './components/BreadCard'
 
 function App() {
 
   return (
     <>
-     <h1>베이커리 사이트!</h1>
+    <BreadCard />
     </>
   )
 }
